@@ -1,2 +1,7 @@
-## [astrology game<br>enhance life](https://p9e.page/game)
+## personas [game](https://p9e.page/game) remix
 
+```css
+personas.plutoops
+personas.runeptune
+personas.uranushowl
+```
